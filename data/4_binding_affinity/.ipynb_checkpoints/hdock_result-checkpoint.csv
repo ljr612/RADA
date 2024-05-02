@@ -1,0 +1,12 @@
+,No. of intermolecular contacts,No. of charged-charged contacts,No. of charged-polar contacts,No. of charged-apolar contacts,No. of polar-polar contacts,No. of apolar-polar contacts,No. of apolar-apolar contacts,Percentage of apolar NIS residues,Percentage of charged NIS residues,Predicted binding affinity (kcal.mol-1),Predicted dissociation constant (M) at 25.0°C
+l12_1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+l13_1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+l13_3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+l13_2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+l12_3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+l13_4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+l12_4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+l13_5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+l12_5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+l12_2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+,19,0,6,2,3,4,4,35.85,21.44,-6.8,1.0e-05

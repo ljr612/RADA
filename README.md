@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RADA
 
 The RADA model is a rapid antibody generation and screening model for antigens

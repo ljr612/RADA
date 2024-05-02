@@ -1,4 +1,5 @@
-### RADA
+<<<<<<< HEAD
+# RADA
 
 The RADA model is a rapid antibody generation and screening model for antigens
 
@@ -81,3 +82,4 @@ python rada/result_merge.py -z data/4_binding_affinity/zdock_result.csv -d data/
 python rada/final_output.py -f data/4_binding_affinity/merged_results.csv -n 5 -o data/4_binding_affinity/filtered_n_results.csv
 python rada/final_output.py -f data/4_binding_affinity/merged_results.csv -g -9 -o data/4_binding_affinity/filtered_g_results.csv
 ```
+

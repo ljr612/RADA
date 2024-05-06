@@ -1,0 +1,2 @@
+include igfold/trained_models/IgFold/*
+include LICENSE.md

@@ -31,9 +31,8 @@ python rada/igfold_rmsd_all.py -i data/2_ab_structure/ab_structure_renum -o data
 ```
 
 #### Antibody-antigen docking
-
+##### zdock
 ```bash
-####zdock
 mkdir data/3_zdock
 cp zdock/uniCHARMM ./
 cp zdock/create_lig ./
@@ -53,10 +52,8 @@ python rada/zdock_score.py -i data/3_zdock/out -o data/3_zdock/zdock_scores.csv
 done
 ```
 
-
-
+##### hdock
 ```bash
-####hdock
 mkdir data/3_hdock
 mkdir data/3_hdock/out
 mkdir data/3_hdock/pdb
